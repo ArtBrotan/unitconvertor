@@ -82,4 +82,5 @@ input::placeholder {
 .converted-output {
     color: white;
     font-weight: 300;
+    font-size: 2vw;
 }
