@@ -12,7 +12,7 @@ body {
 #top {
     padding: 10px 25px;
     color: white;
-    background-color: #F43F5E;
+    background-color: #3f4ef4;
 }
 
 #main-heading {
@@ -20,8 +20,8 @@ body {
 }
 
 input {
-    background-color: #F43F5E;
-    border: 2px solid #FDA4AF;
+    background-color: #3f6ff4;
+    border: 2px solid #a4c5fd;
     border-radius: 1vw;
     width: 20vw;
     height: 14vw;
@@ -58,7 +58,7 @@ input::placeholder {
     justify-content: space-around;
     align-items: center;
     background-color: #1F2937;
-    color: #FDA4AF;
+    color: #a4b3fd;
     padding: 20px;
 }
 
